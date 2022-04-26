@@ -9,3 +9,4 @@ This project is created using Sypder as the main IDE. The main frameworks used i
 ### 3.1. Data Pipeline
 The data is first loaded and preprocessed, such that unwanted features are removed, and label is encoded in one-hot format. Then the data is split into train-validation-test sets, with a ratio of 60:20:20.
  
+![Screenshot 2022-04-27 012103](https://user-images.githubusercontent.com/76200485/165357826-6c36938b-a674-4938-8f25-c7831a6b2610.jpg)
